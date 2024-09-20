@@ -1,0 +1,7 @@
+C:\Users\jpmac\source\repos\ConsoleAppPractices\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\jpmac\source\repos\ConsoleAppPractices\Practice2\bin\Debug\Practice2.exe
+C:\Users\jpmac\source\repos\ConsoleAppPractices\Practice2\bin\Debug\Practice2.pdb
+C:\Users\jpmac\source\repos\ConsoleAppPractices\Practice2\obj\Debug\Practice2.csproj.AssemblyReference.cache
+C:\Users\jpmac\source\repos\ConsoleAppPractices\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\jpmac\source\repos\ConsoleAppPractices\Practice2\obj\Debug\Practice2.exe
+C:\Users\jpmac\source\repos\ConsoleAppPractices\Practice2\obj\Debug\Practice2.pdb
